@@ -1,0 +1,3 @@
+Install Java on MAC: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Install Eclipse on MAC: https://www.eclipse.org/downloads/download.php?file=/oomph/epp/mars/R1a/eclipse-inst-mac64.tar.gz&mirror_id=1109
+Using GIT and Eclipse: https://www.youtube.com/watch?v=C0bFLGJqnI8&index=1&list=PL-suslzEBiMo0B5RcAikOaqDLKoG9Okub
